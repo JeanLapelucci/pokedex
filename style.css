@@ -50,15 +50,15 @@ h1 {
 }
 
 .fire {
-	background-color: #FDDFDF;
+	background-color: #F9C473;
 }
 
 .grass {
-	background-color: #DEFDE0;
+	background-color: #72C472;
 }
 
 .electric {
-	background-color: #FCF7DE;
+	background-color: #F7FA98;
 }
 
 .water, .ice {
@@ -66,23 +66,23 @@ h1 {
 }
 
 .ground {
-	background-color: #f4e7da;
+	background-color: #F0CF8D;
 }
 
 .rock {
-	background-color: #d5d5d4;
+	background-color: #CFCACA;
 }
 
 .fairy {
-	background-color: #fceaff;
+	background-color: #F8B4D8;
 }
 
 .poison {
-	background-color: #98d7a5;
+	background-color: #B992CA;
 }
 
 .bug {
-	background-color: #f8d5a3;
+	background-color: #BFECBF;
 }
 
 .dragon {
@@ -90,7 +90,7 @@ h1 {
 }
 
 .psychic {
-	background-color: #eaeda1;
+	background-color: #FFB5ED;
 }
 
 .flying {
@@ -98,11 +98,15 @@ h1 {
 }
 
 .fighting {
-	background-color: #E6E0D4;
+	background-color: #FF8D82;
 }
 
 .normal {
 	background-color: #F5F5F5;
+}
+
+.ghost {
+	background-color: #AAA1C6;
 }
 
 .card:hover {
